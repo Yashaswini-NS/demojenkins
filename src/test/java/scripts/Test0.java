@@ -7,6 +7,7 @@ public class Test0 {
 	@Test
 	public void tc1() {
 		Reporter.log("Hello Java", true);
+		Reporter.log("check");
 	}
 	
 
